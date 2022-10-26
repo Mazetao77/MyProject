@@ -10,5 +10,6 @@ int main(){
 	cout<<"helloWorld"<<endl;
 	cout<<"我是一名程序员."<<endl;
 	cout<<"过去的学期没有将心思放在学习上!荒废学业!";
+	cout<<"以后的每时每刻都要全力以赴!";
           
 }
